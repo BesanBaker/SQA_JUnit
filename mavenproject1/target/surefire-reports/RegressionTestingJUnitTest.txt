@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: RegressionTestingJUnitTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.102 s <<< FAILURE! - in RegressionTestingJUnitTest
+test5  Time elapsed: 0.067 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Scalene Triangle> but was: <Right Triangle>
+	at RegressionTestingJUnitTest.test5(RegressionTestingJUnitTest.java:29)
+
